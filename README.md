@@ -1,11 +1,10 @@
 # Real-Estate-Price-Prediction
-Tools and Technology used
+This is a Data Science Project where we have utilized Bengaluru House Price data to build a machine elarning model which can predict the prices of real estate properties in Bengaluru.
+
+### Tools and Technology 
 1) Python
 2) Numpy and Pandas for data cleaning
 3) Matplotlib for data visualization
 4) Sklearn for model building
-5) Jupyter notebook, visual studio code and pycharm as IDE
-6) Python flask for HTTP server
-7) HTML/CSS/Javascript for UI
+5) Jupyter notebook
 
-This can be used to predict the price of a real estate. 
